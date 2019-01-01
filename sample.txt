@@ -1,1 +1,3 @@
 this is changes are made by team A and added extra line from master, this is second change to generate log after the branch_1 commit 
+this is changes are made by team A
+this is the change on branch 1
